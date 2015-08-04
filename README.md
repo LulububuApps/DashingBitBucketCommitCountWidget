@@ -1,7 +1,7 @@
 ## Description
 
 Simple [Dashing](http://shopify.github.com/dashing) job to display the commit count of all [Bitbucket](https://bitbucket.org) repositories. Uses [Bitbucket's API](https://confluence.atlassian.com/display/BITBUCKET/Using+the+Bitbucket+REST+APIs).
-Inspired by [jeroenbegyn's](https://gist.github.com/jeroenbegyn) [Bitbucket followers job for Dashing](https://gist.github.com/jeroenbegyn/5385092). While developing we found [vongrippen's](https://github.com/vongrippen) [BitBucketAPI](https://github.com/vongrippen/bitbucket), so there is a better version of this widget: [here](https://github.com/SocialbitGmbH/DashingBitBucketCommitCountWidget)!
+Inspired by [jeroenbegyn's](https://gist.github.com/jeroenbegyn) [Bitbucket followers job for Dashing](https://gist.github.com/jeroenbegyn/5385092). While developing we found [vongrippen's](https://github.com/vongrippen) [BitBucketAPI](https://github.com/vongrippen/bitbucket), so there is a better version of this widget: [here](https://github.com/SocialbitGmbH/DashingBitBucketCommitYearCountWidget)!
 
 # Example
 
